@@ -1,0 +1,39 @@
+2025-12-11 05:22:44,717 - INFO - Connected to DB for inserting raw data.
+2025-12-11 05:22:44,717 - INFO - Started file: yellow_tripdata_2023-01.parquet
+2025-12-11 05:24:23,454 - INFO - Inserted raw data from yellow_tripdata_2023-01.parquet 
+2025-12-11 05:24:23,454 - INFO - Rows inserted: 3066766
+2025-12-11 05:24:23,454 - INFO - Started file: yellow_tripdata_2023-02.parquet
+2025-12-11 05:25:54,770 - INFO - Inserted raw data from yellow_tripdata_2023-02.parquet 
+2025-12-11 05:25:54,770 - INFO - Rows inserted: 2913955
+2025-12-11 05:25:54,770 - INFO - Started file: yellow_tripdata_2023-03.parquet
+2025-12-11 05:27:43,407 - INFO - Inserted raw data from yellow_tripdata_2023-03.parquet 
+2025-12-11 05:27:43,407 - INFO - Rows inserted: 3403766
+2025-12-11 05:27:43,407 - INFO - Started file: yellow_tripdata_2023-04.parquet
+2025-12-11 05:29:30,658 - INFO - Inserted raw data from yellow_tripdata_2023-04.parquet 
+2025-12-11 05:29:30,658 - INFO - Rows inserted: 3288250
+2025-12-11 05:29:30,658 - INFO - Started file: yellow_tripdata_2023-05.parquet
+2025-12-11 05:31:26,660 - INFO - Inserted raw data from yellow_tripdata_2023-05.parquet 
+2025-12-11 05:31:26,660 - INFO - Rows inserted: 3513649
+2025-12-11 05:31:26,660 - INFO - Started file: yellow_tripdata_2023-06.parquet
+2025-12-11 05:33:15,920 - INFO - Inserted raw data from yellow_tripdata_2023-06.parquet 
+2025-12-11 05:33:15,920 - INFO - Rows inserted: 3307234
+2025-12-11 05:33:15,966 - INFO - Starting cleaned data load...
+2025-12-11 05:33:15,967 - INFO - Processing cleaned file: clean_yellow_tripdata_2023-01.parquet
+2025-12-11 05:34:45,134 - INFO - Inserted cleaned data from clean_yellow_tripdata_2023-01.parquet
+2025-12-11 05:34:45,135 - INFO - Rows inserted: 2184522
+2025-12-11 05:34:45,135 - INFO - Processing cleaned file: clean_yellow_tripdata_2023-02.parquet
+2025-12-11 05:36:02,873 - INFO - Inserted cleaned data from clean_yellow_tripdata_2023-02.parquet
+2025-12-11 05:36:02,874 - INFO - Rows inserted: 1914084
+2025-12-11 05:36:02,874 - INFO - Processing cleaned file: clean_yellow_tripdata_2023-03.parquet
+2025-12-11 05:37:33,619 - INFO - Inserted cleaned data from clean_yellow_tripdata_2023-03.parquet
+2025-12-11 05:37:33,620 - INFO - Rows inserted: 2208869
+2025-12-11 05:37:33,620 - INFO - Processing cleaned file: clean_yellow_tripdata_2023-04.parquet
+2025-12-11 05:39:00,907 - INFO - Inserted cleaned data from clean_yellow_tripdata_2023-04.parquet
+2025-12-11 05:39:00,907 - INFO - Rows inserted: 2150984
+2025-12-11 05:39:00,908 - INFO - Processing cleaned file: clean_yellow_tripdata_2023-05.parquet
+2025-12-11 05:40:40,601 - INFO - Inserted cleaned data from clean_yellow_tripdata_2023-05.parquet
+2025-12-11 05:40:40,601 - INFO - Rows inserted: 2310343
+2025-12-11 05:40:40,601 - INFO - Processing cleaned file: clean_yellow_tripdata_2023-06.parquet
+2025-12-11 05:42:15,293 - INFO - Inserted cleaned data from clean_yellow_tripdata_2023-06.parquet
+2025-12-11 05:42:15,294 - INFO - Rows inserted: 2155624
+2025-12-11 05:42:15,331 - INFO - All data load operations completed.

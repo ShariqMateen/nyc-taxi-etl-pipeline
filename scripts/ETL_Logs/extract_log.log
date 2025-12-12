@@ -1,0 +1,12 @@
+2025-12-02 06:09:08,526 - INFO - File: yellow_tripdata_2023-01.parquet | Size: 45.46 MB | Records: 3066766
+2025-12-02 06:09:08,929 - INFO - File: yellow_tripdata_2023-02.parquet | Size: 45.54 MB | Records: 2913955
+2025-12-02 06:09:09,442 - INFO - File: yellow_tripdata_2023-03.parquet | Size: 53.53 MB | Records: 3403766
+2025-12-02 06:09:09,872 - INFO - File: yellow_tripdata_2023-04.parquet | Size: 51.71 MB | Records: 3288250
+2025-12-02 06:09:10,448 - INFO - File: yellow_tripdata_2023-05.parquet | Size: 55.94 MB | Records: 3513649
+2025-12-02 06:09:10,873 - INFO - File: yellow_tripdata_2023-06.parquet | Size: 52.45 MB | Records: 3307234
+2025-12-11 04:40:56,649 - INFO - File: yellow_tripdata_2023-01.parquet | Size: 45.46 MB | Records: 3066766
+2025-12-11 04:40:57,201 - INFO - File: yellow_tripdata_2023-02.parquet | Size: 45.54 MB | Records: 2913955
+2025-12-11 04:40:57,899 - INFO - File: yellow_tripdata_2023-03.parquet | Size: 53.53 MB | Records: 3403766
+2025-12-11 04:40:58,543 - INFO - File: yellow_tripdata_2023-04.parquet | Size: 51.71 MB | Records: 3288250
+2025-12-11 04:40:59,246 - INFO - File: yellow_tripdata_2023-05.parquet | Size: 55.94 MB | Records: 3513649
+2025-12-11 04:40:59,918 - INFO - File: yellow_tripdata_2023-06.parquet | Size: 52.45 MB | Records: 3307234

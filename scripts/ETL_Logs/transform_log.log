@@ -1,0 +1,12 @@
+2025-12-03 05:23:42,548 - INFO - yellow_tripdata_2023-01.parquet: Cleaned=2184522 rows | CSV conversion time=50.27s | Parquet=62.13MB | CSV=338.79MB | Diff=276.66MB
+2025-12-03 05:24:36,731 - INFO - yellow_tripdata_2023-02.parquet: Cleaned=1914084 rows | CSV conversion time=45.09s | Parquet=52.89MB | CSV=300.05MB | Diff=247.16MB
+2025-12-03 05:25:40,257 - INFO - yellow_tripdata_2023-03.parquet: Cleaned=2208869 rows | CSV conversion time=53.04s | Parquet=61.47MB | CSV=346.49MB | Diff=285.02MB
+2025-12-03 05:26:40,484 - INFO - yellow_tripdata_2023-04.parquet: Cleaned=2150984 rows | CSV conversion time=49.98s | Parquet=60.06MB | CSV=337.32MB | Diff=277.26MB
+2025-12-03 05:27:46,583 - INFO - yellow_tripdata_2023-05.parquet: Cleaned=2310343 rows | CSV conversion time=55.28s | Parquet=64.91MB | CSV=362.55MB | Diff=297.64MB
+2025-12-03 05:28:47,643 - INFO - yellow_tripdata_2023-06.parquet: Cleaned=2155624 rows | CSV conversion time=50.89s | Parquet=60.37MB | CSV=338.09MB | Diff=277.72MB
+2025-12-11 04:44:18,136 - INFO - yellow_tripdata_2023-01.parquet: Cleaned=2184522 rows | CSV conversion time=62.90s | Parquet=62.13MB | CSV=338.79MB | Diff=276.66MB
+2025-12-11 04:45:17,508 - INFO - yellow_tripdata_2023-02.parquet: Cleaned=1914084 rows | CSV conversion time=49.91s | Parquet=52.89MB | CSV=300.05MB | Diff=247.16MB
+2025-12-11 04:46:28,580 - INFO - yellow_tripdata_2023-03.parquet: Cleaned=2208869 rows | CSV conversion time=58.90s | Parquet=61.47MB | CSV=346.49MB | Diff=285.02MB
+2025-12-11 04:47:41,608 - INFO - yellow_tripdata_2023-04.parquet: Cleaned=2150984 rows | CSV conversion time=61.21s | Parquet=60.06MB | CSV=337.32MB | Diff=277.26MB
+2025-12-11 04:48:55,623 - INFO - yellow_tripdata_2023-05.parquet: Cleaned=2310343 rows | CSV conversion time=61.79s | Parquet=64.91MB | CSV=362.55MB | Diff=297.64MB
+2025-12-11 04:50:09,124 - INFO - yellow_tripdata_2023-06.parquet: Cleaned=2155624 rows | CSV conversion time=62.02s | Parquet=60.37MB | CSV=338.09MB | Diff=277.72MB
